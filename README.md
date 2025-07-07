@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Omnia or some refer to me as Karma</h1>
+ <h1 align="center">Hello, I'm Omnia or some refer to me as Karma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Penetration+Testing+%7C+Redteam+%26+Ethical+Hacking" />
