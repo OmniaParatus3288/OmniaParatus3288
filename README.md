@@ -10,7 +10,7 @@
 
 I’m a recent Cybersecurity graduate with a strong focus on penetration testing, digital forensics, incident response (DFIR), and cybersecurity awareness. With a diverse professional background spanning IT operations, workforce management, and technical support, I bring a unique blend of analytical, technical, and problem-solving skills.  
 
-While pursuing my degree at Full Sail University (4.0 GPA), I’ve worked on projects covering network security, compliance frameworks like NIST 800-53, vulnerability assessments, and security auditing. I’m eager to continue growing my hands-on experience and contributing to innovative cybersecurity solutions.  
+While pursuing my degree at Full Sail University, I’ve worked on projects covering network security, compliance frameworks like NIST 800-53, vulnerability assessments, and security auditing. I’m eager to continue growing my hands-on experience and contributing to innovative cybersecurity solutions.  
 
 This page reflects my journey, showcasing the projects and skills shaping my path in this ever-evolving field.
 
