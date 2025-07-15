@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Daphnie Bruno — or some refer to me as Omnia or Karma</h1>
+<h1 align="center">Hello, I'm Daphnie Bruno… Some refer to me as Omnia or Karma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Penetration+Testing+%7C+Redteam+%26+Ethical+Hacking" />
@@ -56,11 +56,11 @@ This page is a reflection of my journey, showcasing the projects and experiences
 I’m currently participating in several exciting cybersecurity programs and challenges!
 
 <p align="center">
-  <img src="https://github.com/OmniaParatus3288/your-repo-name/blob/main/images/Tier1Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
+  <img src="https://github.com/OmniaParatus3288/Resume/blob/main/images/Tier%201%20Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/OmniaParatus3288/your-repo-name/blob/main/images/WiCyS_VDP_Badge.png?raw=true" alt="WiCyS Vulnerability Disclosure Program Badge" width="200"/>
+  <img src="https://github.com/OmniaParatus3288/Resume/blob/main/images/WiCyS%20VDP%202025%20-%20Badge.png?raw=true" alt="WiCyS Vulnerability Disclosure Program Badge" width="200"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/OmniaParatus3288/your-repo-name/blob/main/images/Google_WiCyS_Cohort_Badge.png?raw=true" alt="Google Cybersecurity Cohort Badge" width="200"/>
+  <img src="https://github.com/OmniaParatus3288/Resume/blob/main/images/googlewicys.png?raw=true" alt="Google Cybersecurity Cohort Badge" width="200"/>
 </p>
 
 - **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
