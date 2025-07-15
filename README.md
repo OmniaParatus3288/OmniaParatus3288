@@ -1,4 +1,4 @@
- <h1 align="center">Hello, I'm Omnia or some refer to me as Karma</h1>
+<h1 align="center">Hello, I'm Daphnie Bruno — or some refer to me as Omnia or Karma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Penetration+Testing+%7C+Redteam+%26+Ethical+Hacking" />
@@ -8,11 +8,13 @@
 
 ## 🌟 About Me
 
-I’m a recent Cybersecurity graduate with a strong focus on penetration testing, digital forensics, incident response (DFIR), and cybersecurity awareness. Possessing a diverse professional background spanning IT operations, workforce management, and technical support, I bring a unique blend of analytical, technical, and problem-solving skills.  
+I’m a recent Cybersecurity graduate with a strong focus on penetration testing, digital forensics, incident response (DFIR), and cybersecurity awareness.  
 
-While pursuing my degree at Full Sail University, I’ve worked on projects covering network security, compliance frameworks like NIST 800-53, vulnerability assessments, and security auditing. I’m eager to continue growing my hands-on experience and contributing to innovative cybersecurity solutions.  
+I come from a diverse professional background in IT operations, workforce management, and technical support, which helps me connect technical skills with real-world business impact.  
 
-This page reflects my journey, showcasing the projects and skills shaping my path in this ever-evolving field.
+While studying at Full Sail University, I’ve worked on projects covering network security, compliance frameworks like NIST 800-53, vulnerability assessments, and security auditing. I’m always looking for new challenges and ways to deepen my hands-on skills!
+
+This page is a reflection of my journey, showcasing the projects and experiences shaping my path in cybersecurity.
 
 ---
 
@@ -20,7 +22,7 @@ This page reflects my journey, showcasing the projects and skills shaping my pat
 
 - **Operating Systems:** Linux, Windows Server, Windows Workstation, macOS  
 - **Cloud:** AWS, Azure  
-- **Security Tools:** Nessus, NMAP, Metasploit, Wireshark, OpenSSL, CyberChef  
+- **Security Tools:** Nessus, Nmap, Metasploit, Wireshark, OpenSSL, CyberChef  
 - **Networking:** LAN/WAN, DNS, DHCP, TCP/IP, Active Directory, VLANs, VPNs, NAT  
 - **Programming/Scripting:** Python, PowerShell, Bash  
 - **Virtualization:** VMware, VirtualBox, KVM, Proxmox  
@@ -36,16 +38,39 @@ This page reflects my journey, showcasing the projects and skills shaping my pat
   Conducted authenticated and unauthenticated scans with Nessus and simulated attacks using Metasploit.
 
 - **Security Audits**  
-  Planned and executed audits aligned with NIST 800-53 and FISMA, producing SARs and POA&Ms to support compliance.
+  Planned and executed audits aligned with NIST 800-53 and FISMA, producing SARs and POA&Ms for compliance.
 
 - **Compliance & Security Controls**  
-  Developed presentations and documentation for compliance requirements (PCI DSS, NIST Privacy Framework).
+  Created presentations and documentation for compliance requirements such as PCI DSS and the NIST Privacy Framework.
 
 - **Lab Setup and Exploitation Testing**  
   Configured Windows 11 and Kali Linux VMs for vulnerability testing, including exploitation of MS17-010.
 
 - **Security Policies & Procedures**  
   Authored comprehensive security policies, incident response plans, and continuous monitoring processes.
+
+---
+
+## 🎖️ Programs & Badges
+
+I’m currently participating in several exciting cybersecurity programs and challenges!
+
+<p align="center">
+  <img src="https://github.com/OmniaParatus3288/your-repo-name/blob/main/images/Tier1Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/OmniaParatus3288/your-repo-name/blob/main/images/WiCyS_VDP_Badge.png?raw=true" alt="WiCyS Vulnerability Disclosure Program Badge" width="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/OmniaParatus3288/your-repo-name/blob/main/images/Google_WiCyS_Cohort_Badge.png?raw=true" alt="Google Cybersecurity Cohort Badge" width="200"/>
+</p>
+
+- **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
+  Practicing real-world defensive scenarios, incident response, and threat hunting in a collaborative environment.
+
+- **WiCyS Vulnerability Disclosure Program**  
+  Learning how to identify, report, and help remediate cybersecurity vulnerabilities responsibly.
+
+- **Google Cybersecurity Certificate Cohort Program**  
+  Gaining foundational cybersecurity knowledge and hands-on practice through the Google and WiCyS partnership.
 
 ---
 
@@ -65,16 +90,14 @@ This page reflects my journey, showcasing the projects and skills shaping my pat
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bruno-daphnie" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:daphnie.bruno@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/OmniaParatus3288" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![View My Resume](https://img.shields.io/badge/GitHub-Resume-blue?style=for-the-badge&logo=github)](https://github.com/OmniaParatus3288/Resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-daphnie/)
+
+📧 Email: [daphnie.bruno@icloud.com](mailto:daphnie.bruno@icloud.com)  
+📍 Based in Florida — open to remote opportunities!
+
+---
+
+Thanks for visiting my page! Let’s connect and talk all things cybersecurity. 😊
