@@ -56,11 +56,11 @@ This page is a reflection of my journey, showcasing the projects and experiences
 I’m currently participating in several exciting cybersecurity programs and challenges!
 
 <p align="center">
-  <img src="https://github.com/OmniaParatus3288/Resume/blob/main/images/Tier%201%20Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
+  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/Tier%201%20Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/OmniaParatus3288/Resume/blob/main/images/WiCyS%20VDP%202025%20-%20Badge.png?raw=true" alt="WiCyS Vulnerability Disclosure Program Badge" width="200"/>
+  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/WiCyS%20VDP%202025%20-%20Badge.png?raw=true" alt="WiCyS Vulnerability Disclosure Program Badge" width="200"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/OmniaParatus3288/Resume/blob/main/images/googlewicys.png?raw=true" alt="Google Cybersecurity Cohort Badge" width="200"/>
+  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/googlewicys.png?raw=true" alt="Google Cybersecurity Cohort Badge" width="200"/>
 </p>
 
 - **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
