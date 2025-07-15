@@ -8,13 +8,13 @@
 
 ## 🌟 About Me
 
-I’m a recent Cybersecurity graduate with a strong focus on penetration testing, digital forensics, incident response (DFIR), and cybersecurity awareness.  
+I’m a recent Cybersecurity graduate who has applied classroom knowledge through hands-on labs in network defense, vulnerability assessment, and security auditing. 
 
-I come from a diverse professional background in IT operations, workforce management, and technical support, which helps me connect technical skills with real-world business impact.  
+My background in IT operations and workforce analytics enables me turn technical insights into business success. 
 
-While studying at Full Sail University, I’ve worked on projects covering network security, compliance frameworks like NIST 800-53, vulnerability assessments, and security auditing. I’m always looking for new challenges and ways to deepen my hands-on skills!
+Recent projects include mapping NIST 800-53 controls for an e-commerce mock-up and strengthening Windows networks against MS17-010. 
 
-This page is a reflection of my journey, showcasing the projects and experiences shaping my path in cybersecurity.
+My GitHub will showcase the skills I’m developing and the challenges I plan to tackle next.
 
 ---
 
