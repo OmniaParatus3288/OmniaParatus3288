@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Daphnie Bruno… Some refer to me as Omnia or Karma</h1>
+<h1 align="center">Hello, I'm Daphnie Bruno… a.k.a Omnia/Karma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2050&center=true&vCenter=true&width=950&lines=Cybersecurity+%7C+Redteam+%7C+Ethical+Hacking" />
