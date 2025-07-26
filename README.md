@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Daphnie Bruno… a.k.a Omnia/Karma 👩🏾‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&width=1025&lines=Cybersecurity+%7C+Threat+Detection+%7C+Red+Team+%7C+HTB+Apprentice" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1800&width=1025&repeat=true&lines=Cybersecurity+Analyst+%7C+Threat+Detection+%7C+Red+Team++%7C+HTB+Apprentice" />
 </p>
 
 ---
