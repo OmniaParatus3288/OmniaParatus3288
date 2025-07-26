@@ -1,59 +1,60 @@
-<h1 align="center">Hello, I'm Daphnie Bruno… a.k.a Omnia/Karma</h1>
+<h1 align="center">Hello, I'm Daphnie Bruno… a.k.a Omnia/Karma 👩🏾‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2050&center=true&vCenter=true&width=950&lines=Cybersecurity+%7C+Red+Team+%7C+Ethical+Hacking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&width=1025&lines=Cybersecurity+%7C+Threat+Detection+%7C+Red+Team+%7C+HTB+Apprentice" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I’m a recent Cybersecurity graduate who has applied classroom knowledge through hands-on labs in network defense, vulnerability assessment, and security auditing. 
+I’m a cybersecurity professional with a strong foundation in IT operations and a growing specialty in threat detection, compliance, and adversary simulation. I’ve transitioned from workforce analytics into the cyber world with hands-on experience through academic labs, personal Home Lab projects, and participation in WiCyS and Google’s Cybersecurity Cohort.
 
-My background in IT operations and workforce analytics enables me turn technical insights into business success. 
+I’m currently completing my B.S. in Cybersecurity and diving deep into frameworks like NIST 800-53 and MITRE ATT&CK. My GitHub is where I build, break, fix, and document; showcasing not only the skills I have but the ones I’m actively mastering.
 
-Recent projects include mapping NIST 800-53 controls for an e-commerce mock-up and strengthening Windows networks against MS17-010. 
-
-My GitHub will showcase the skills I’m developing and the challenges I plan to tackle next.
+🧪 Currently working on:  
+- **Hack The Box Job Role Paths**: Junior Cyber Security Analyst & Penetration Tester  
+- **CompTIA Security+** (studying in progress)  
+- **Google Cybersecurity Certificate** (cohort program)
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Operating Systems:** Linux, Windows Server, Windows Workstation, macOS  
-- **Cloud:** AWS, Azure  
-- **Security Tools:** Nessus, Nmap, Metasploit, Wireshark, OpenSSL, CyberChef  
-- **Networking:** LAN/WAN, DNS, DHCP, TCP/IP, Active Directory, VLANs, VPNs, NAT  
-- **Programming/Scripting:** Python, PowerShell, Bash  
-- **Virtualization:** VMware, VirtualBox, KVM, Proxmox  
+- **Operating Systems:** Kali Linux, Windows Server, Windows 10/11, macOS, Ubuntu  
+- **Security Tools:** Nessus, Metasploit, Wireshark, OpenSSL, CyberChef, CrowdStrike, Splunk  
+- **Scripting:** Python, PowerShell, Bash, Ansible  
+- **Networking:** TCP/IP, DNS, DHCP, VPNs, NAT, VLANs, Active Directory  
+- **Cloud Platforms:** AWS, Azure  
+- **Virtualization & Containers:** VMware, VirtualBox, Proxmox, Docker  
 - **Web Servers:** Apache, NGINX  
-- **Databases:** MySQL, MongoDB, MariaDB, MS SQL  
-- **Frameworks & Standards:** NIST 800-53, NIST Privacy Framework, CMMC, PCI DSS
+- **Databases:** MySQL, MongoDB, MS SQL, MariaDB  
+- **Frameworks & Compliance:** NIST 800-53, NIST CSF, MITRE ATT&CK, CIS Controls, PCI DSS, HIPAA, GDPR  
 
 ---
 
 ## 🔥 Projects
 
-- **Simulated Penetration Testing Scenarios**  
-  Conducted authenticated and unauthenticated scans with Nessus and simulated attacks using Metasploit.
+- **🔓 Penetration Testing Labs**  
+  Simulated real-world exploits (MS17-010) using Metasploit; conducted authenticated Nessus scans in isolated environments.
 
-- **Security Audits**  
-  Planned and executed audits aligned with NIST 800-53 and FISMA, producing SARs and POA&Ms for compliance.
+- **🧾 Security Auditing & Compliance**  
+  Authored SARs and POA&Ms aligned with NIST and PCI DSS. Produced documentation for incident response, IAM, patching, and system backup.
 
-- **Compliance & Security Controls**  
-  Created presentations and documentation for compliance requirements such as PCI DSS and the NIST Privacy Framework.
+- **💻 Home Lab Network**  
+  Built a segmented test network using Kali, Ubuntu Server, Docker, and Wazuh for log analysis and detection engineering.
 
-- **Lab Setup and Exploitation Testing**  
-  Configured Windows 11 and Kali Linux VMs for vulnerability testing, including exploitation of MS17-010.
+- **🌐 Network Design & Deployment**  
+  Designed secure IT topology and access controls during a digital migration for a simulated law firm environment.
 
-- **Security Policies & Procedures**  
-  Authored comprehensive security policies, incident response plans, and continuous monitoring processes.
+- **📜 Security Policy Writing**  
+  Developed security policies and procedures following CIS Controls for academic and freelance projects.
 
 ---
 
 ## 🎖️ Programs & Badges
 
-I’m currently participating in several exciting cybersecurity programs and challenges!
+I’m currently participating in several exciting cybersecurity programs and challenges:
 
 <p align="center">
   <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/Tier%201%20Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
@@ -64,13 +65,25 @@ I’m currently participating in several exciting cybersecurity programs and cha
 </p>
 
 - **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
-  Practicing real-world defensive scenarios, incident response, and threat hunting in a collaborative environment.
-
 - **WiCyS Vulnerability Disclosure Program**  
-  Learning how to identify, report, and help remediate cybersecurity vulnerabilities responsibly.
-
 - **Google Cybersecurity Certificate Cohort Program**  
-  Gaining foundational cybersecurity knowledge and hands-on practice through the Google and WiCyS partnership.
+- **Hack The Box Job Role Paths** – *Junior Cyber Security Analyst & Penetration Tester*
+
+---
+
+## 🤝 Connect with Me
+
+[![View My Resume](https://img.shields.io/badge/GitHub-Resume-blue?style=for-the-badge&logo=github)](https://github.com/OmniaParatus3288/Resume)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-daphnie/)
+
+📧 [daphnie.bruno@icloud.com](mailto:daphnie.bruno@icloud.com)  
+📍 Based in Florida – Open to remote cybersecurity opportunities!
+
+---
+
+Thanks for stopping by my corner of the net! 💜  
+Let’s connect and nerd out about threat detection, adversary emulation, and ethical hacking. 😊
+
 
 ---
 
@@ -89,15 +102,3 @@ I’m currently participating in several exciting cybersecurity programs and cha
 </p>
 
 ---
-
-## 🤝 Connect with Me
-
-[![View My Resume](https://img.shields.io/badge/GitHub-Resume-blue?style=for-the-badge&logo=github)](https://github.com/OmniaParatus3288/Resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-daphnie/)
-
-📧 Email: [daphnie.bruno@icloud.com](mailto:daphnie.bruno@icloud.com)  
-📍 Based in Florida — open to remote opportunities!
-
----
-
-Thanks for visiting my page! Let’s connect and talk all things cybersecurity. 😊
