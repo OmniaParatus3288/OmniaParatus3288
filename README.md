@@ -66,7 +66,7 @@ I’m actively involved in several industry-recognized programs that sharpen my 
   &nbsp;&nbsp;
   <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/WiCyS%20VDP%202025%20-%20Badge.png?raw=true" alt="WiCyS Vulnerability Disclosure Program Badge" width="200"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/googlewicys.png?raw=true" alt="Google Cybersecurity Certificate of Completion" width="200"/>
+  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/googlewicyscert.png?raw=true" alt="Google Cybersecurity Certificate of Completion" width="200"/>
 </p>
 
 - **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
