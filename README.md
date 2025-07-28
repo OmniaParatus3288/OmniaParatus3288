@@ -14,8 +14,10 @@ I’m currently completing my B.S. in Cybersecurity and diving deep into framewo
 
 🧪 Currently working on:  
 - **Hack The Box Job Role Paths**: Junior Cyber Security Analyst & Penetration Tester  
-- **CompTIA Security+** (studying in progress)  
-✅ **Google Cybersecurity Certificate** *(completed!)*  
+- **CompTIA Security+** (studying in progress)
+
+Completed 
+✅ **Google Cybersecurity Certificate** *(completed!)*  7/27/25
 
 ---
 
@@ -69,7 +71,7 @@ I’m actively involved in several industry-recognized programs that sharpen my 
 
 - **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
 - **WiCyS Vulnerability Disclosure Program**  
-✅ **Google Cybersecurity Certificate (Coursera x Google)**  
+✅ **Google Cybersecurity Certificate (Coursera x Google)**  Completed 7/27/25
 - **Hack The Box Job Role Paths** – *Junior Cyber Security Analyst & Penetration Tester*
 
 ---
