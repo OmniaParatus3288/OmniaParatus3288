@@ -8,14 +8,14 @@
 
 ## 🌟 About Me
 
-I’m a cybersecurity professional with a strong foundation in IT operations and a growing specialty in threat detection, compliance, and adversary simulation. I’ve transitioned from workforce analytics into the cyber world with hands-on experience through academic labs, personal Home Lab projects, and participation in WiCyS and Google’s Cybersecurity Cohort.
+I’m a cybersecurity professional with a strong foundation in IT operations and a growing specialty in threat detection, compliance, and adversary simulation. I’ve transitioned from workforce analytics into the cyber world with hands-on experience through academic labs, personal Home Lab projects, and participation in WiCyS and Google’s Cybersecurity Certificate Program (now completed ✅).
 
 I’m currently completing my B.S. in Cybersecurity and diving deep into frameworks like NIST 800-53 and MITRE ATT&CK. My GitHub is where I build, break, fix, and document; showcasing not only the skills I have but the ones I’m actively mastering.
 
 🧪 Currently working on:  
 - **Hack The Box Job Role Paths**: Junior Cyber Security Analyst & Penetration Tester  
 - **CompTIA Security+** (studying in progress)  
-- **Google Cybersecurity Certificate** (cohort program)
+✅ **Google Cybersecurity Certificate** *(completed!)*  
 
 ---
 
@@ -50,11 +50,14 @@ I’m currently completing my B.S. in Cybersecurity and diving deep into framewo
 - **📜 Security Policy Writing**  
   Developed security policies and procedures following CIS Controls for academic and freelance projects.
 
+- **📚 Google Certificate Capstone (Hands-on Practice)**  
+  Applied security incident detection and mitigation in a simulated SOC scenario based on the Google Cybersecurity curriculum.
+
 ---
 
 ## 🎖️ Programs & Badges
 
-I’m currently participating in several exciting cybersecurity programs and challenges:
+I’m actively involved in several industry-recognized programs that sharpen my technical and collaborative skills:
 
 <p align="center">
   <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/Tier%201%20Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
@@ -66,7 +69,7 @@ I’m currently participating in several exciting cybersecurity programs and cha
 
 - **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
 - **WiCyS Vulnerability Disclosure Program**  
-- **Google Cybersecurity Certificate Cohort Program**  
+✅ **Google Cybersecurity Certificate (Coursera x Google)**  
 - **Hack The Box Job Role Paths** – *Junior Cyber Security Analyst & Penetration Tester*
 
 ---
@@ -83,7 +86,6 @@ I’m currently participating in several exciting cybersecurity programs and cha
 
 Thanks for stopping by my corner of the net! 💜  
 Let’s connect and nerd out about threat detection, adversary emulation, and ethical hacking. 😊
-
 
 ---
 
