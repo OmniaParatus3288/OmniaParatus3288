@@ -81,7 +81,7 @@ I’m actively involved in several industry-recognized programs that sharpen my 
 [![View My Resume](https://img.shields.io/badge/GitHub-Resume-blue?style=for-the-badge&logo=github)](https://github.com/OmniaParatus3288/Resume)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-daphnie/)
 
-📧 [daphnie.bruno@icloud.com](mailto:daphnie.bruno@icloud.com)  
+📧 [dbruno@cyberensic.us](mailto:dbruno@cyberensic.us)  
 📍 Based in Florida – Open to remote cybersecurity opportunities!
 
 ---
