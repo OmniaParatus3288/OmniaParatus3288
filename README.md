@@ -69,11 +69,12 @@ I’m actively involved in several industry-recognized programs that sharpen my 
   <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/googlewicyscert.png?raw=true" alt="Google Cybersecurity Certificate of Completion" width="200"/>
 </p>
 
-- **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  
+✅ **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**  Completed
 - **WiCyS Vulnerability Disclosure Program**  
 ✅ **Google Cybersecurity Certificate (Coursera x Google)**  Completed 7/27/25
 - **Hack The Box Job Role Paths** – *Junior Cyber Security Analyst & Penetration Tester*
 
+- **Currently part of the SANS Security training Tier 2 program through WICYS**
 ---
 
 ## 🤝 Connect with Me
