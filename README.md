@@ -61,14 +61,6 @@ I recently completed my B.S. in Cybersecurity and am currently working toward my
 
 I participated in in several industry-recognized programs that sharpen my technical and collaborative skills:
 
-<p align="center">
-  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/Tier%201%20Badge.png?raw=true" alt="Target WiCyS Cyber Defense Challenge Tier 1 Badge" width="200"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/WiCyS%20VDP%202025%20-%20Badge.png?raw=true" alt="WiCyS Vulnerability Disclosure Program Badge" width="200"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/OmniaParatus3288/OmniaParatus3288/blob/main/images/googlewicyscert.png?raw=true" alt="Google Cybersecurity Certificate of Completion" width="200"/>
-</p>
-
 ✅ **Target + WiCyS Cyber Defense Challenge (Tier 1 Participant)**
 - **WiCyS Vulnerability Disclosure Program**  
 ✅ **Google Cybersecurity Certificate (Coursera x Google)** 
